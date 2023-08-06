@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Jay Gohel</h1>
+<h1 align="center">Hi 👋, I'm Jay Gohel</h1>
 <h3 align="center">A passionate Django developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay4050&label=Profile%20views&color=0e75b6&style=flat" alt="jay4050" /> </p>
